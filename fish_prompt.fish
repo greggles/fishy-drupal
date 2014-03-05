@@ -9,7 +9,7 @@ end
 
 function _drush_alias_name
   set -l pid %self
-  if [ test -f $TMPDIR/drush-env/drush-drupal-site-$pid]
+  if test -f "$TMPDIR/drush-env/drush-drupal-site-$pid"
     echo (command cat $TMPDIR/drush-env/drush-drupal-site-$pid)
   end
 end
