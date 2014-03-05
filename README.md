@@ -1,6 +1,6 @@
 ## fishy-drupal
 
-![fishy-drupal](https://github.com/greggles/fishy-drupal/something?)
+![fishy-drupal](https://raw.github.com/greggles/fishy-drupal/master/drups-fish-theme.png)
 
 #### Features
 
